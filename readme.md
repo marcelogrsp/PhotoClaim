@@ -42,4 +42,4 @@ And call the function clicking on `TEST`.
 
 ### Where the output is stored
 
-The output is stored on PhotoClaim's Dropbox at https://www.dropbox.com/sh/2f9kc6fxeqaub57/AAAlepd1ERZX10rXXnvYy4eGa?dl=0
+The output is stored on PhotoClaim's Dropbox at https://www.dropbox.com/sh/.../...?dl=0
