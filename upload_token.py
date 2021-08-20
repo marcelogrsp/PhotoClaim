@@ -1,7 +1,7 @@
 import dropbox
 import json
 
-ACCESS_TOKEN = 'ANsvqyLFWTgAAAAAAAAAAUoZeBSPTLOClyhncM7zK7ZmHofXpJb8qMAPqvmqMz52'
+ACCESS_TOKEN = 'access_token'
 dbx = dropbox.Dropbox(ACCESS_TOKEN)
 
 token = open("token.json", "r")
